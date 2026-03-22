@@ -78,7 +78,7 @@
 </template>
 
 <script setup>
-import { computed } from 'vue'
+import { computed, ref } from 'vue'
 import { useRoute } from 'vue-router'
 import { products } from '../data/products'
 
@@ -88,9 +88,20 @@ const product = computed(() => {
   return products.find(p => p.slug === route.params.slug)
 })
 
-const selectedImage = computed(() => {
-  return product.value?.images[0] || ''
-})
+const selectedImage = ref('')
+
+// Set initial image when product loads
+const setInitialImage = () => {
+  if (product.value) {
+    selectedImage.value = product.value.images[0]
+  }
+}
+
+// Watch for product changes and set initial image
+import { watch } from 'vue'
+watch(product, () => {
+  setInitialImage()
+}, { immediate: true })
 
 const whatsappLink = computed(() => {
   if (!product.value) return ''
