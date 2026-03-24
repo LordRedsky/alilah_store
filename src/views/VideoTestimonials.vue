@@ -81,7 +81,7 @@
           </div>
           <div class="footer-section">
             <h3>Kontak</h3>
-            <p>WhatsApp: +62 822-9350-9164</p>
+            <p>WhatsApp: +62 812-4317-9596</p>
           </div>
         </div>
         <div class="footer-bottom">

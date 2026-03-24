@@ -7,7 +7,7 @@ export const products = [
     shortDescription: 'Superfood Jepang dengan 100% Vegan Peptide untuk kesehatan otak dan mata',
     description: 'Hikari adalah produk superfood asal Jepang dengan kandungan 100% Vegan Peptide dan kombinasi 11 bahan alami antioksidan. Dirancang khusus untuk menjaga kesehatan otak dan mata, melindungi dari radiasi gadget, serta mendukung daya ingat dan konsentrasi. Dengan 5 paten internasional yang terbukti meningkatkan performa visual & kesehatan mata, melindungi retina dari sinar biru gadget, memperbaiki memori & fungsi otak, meningkatkan aktivitas neuron, dan merangsang neurogenesis (pembentukan sel otak baru).',
     price: 'Rp 1.800.000',
-    whatsappNumber: '6282293509164',
+    whatsappNumber: '6281243179596',
     images: [
       '/produk/Hikari/produk 1.jpeg',
       '/produk/Hikari/produk 3.jpeg',
@@ -36,7 +36,7 @@ export const products = [
     shortDescription: 'Hexa Peptide dan 12 nutrisi bioaktif untuk regenerasi sel & kesehatan pembuluh darah',
     description: 'SOP Subarashi adalah produk kesehatan berbasis riset Jepang dengan kandungan Hexa Peptide (6 peptida dalam 1 produk) dan 12 nutrisi bioaktif inovatif. Dirancang untuk bekerja di tingkat sel, memperbaiki jaringan, melancarkan peredaran darah, serta mencegah penyakit degeneratif. Dengan 8 paten internasional yang terbukti untuk regenerasi & peremajaan sel, melancarkan peredaran darah, menstabilkan tekanan darah, mencegah penggumpalan darah (stroke & jantung), efek anti-penuaan alami, melindungi fungsi hati, dan mengontrol kadar asam urat.',
     price: 'Rp 1.950.000',
-    whatsappNumber: '6282293509164',
+    whatsappNumber: '6281243179596',
     images: [
       '/produk/subashi/1a.jpeg',
       '/produk/subashi/WhatsApp Image 2026-03-22 at 18.29.13.jpeg',
@@ -69,7 +69,7 @@ export const products = [
     shortDescription: 'DNA Salmon, Probiotik, dan Antioksidan Super untuk regenerasi sel dan kulit cantik',
     description: 'Utsukushii Gold adalah suplemen premium berbasis riset Jepang yang menggabungkan DNA Salmon, Probiotik, dan Antioksidan Super untuk mendukung regenerasi sel, memperkuat imun, dan mempercantik kulit dari dalam. Dengan 8 paten internasional yang mencakup anti tumor & anti virus, aktivasi sistem imun, terapi hepatitis C, proteksi infeksi & racun, mengurangi efek samping obat kanker, dan detoksifikasi darah & usus. Kandungan unggulan meliputi Salmon DNA (PDRN), Probiotik premium, Kombu Fucoidan, Black Garlic, L-Glutathione, Vitamin D, Fish Collagen, dan Resveratrol.',
     price: 'Rp 1.800.000',
-    whatsappNumber: '6282293509164',
+    whatsappNumber: '6281243179596',
     images: [
       '/produk/utsukushi/1.jpeg',
       '/produk/utsukushi/2.jpeg',

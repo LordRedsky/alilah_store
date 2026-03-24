@@ -90,7 +90,7 @@
           </div>
           <div class="footer-section">
             <h3>Kontak</h3>
-            <p>WhatsApp: +62 822-9350-9164</p>
+            <p>WhatsApp: +62 812-4317-9596</p>
           </div>
         </div>
         <div class="footer-bottom">
@@ -106,6 +106,6 @@ import { products, testimonials } from '../data/products'
 
 const getWhatsAppLink = (product) => {
   const message = `Halo Alilah Store, saya ingin memesan produk ${product.name} dengan harga ${product.price}. Mohon info lebih lanjut.`
-  return `https://wa.me/6282293509164?text=${encodeURIComponent(message)}`
+  return `https://wa.me/6281243179596?text=${encodeURIComponent(message)}`
 }
 </script>
